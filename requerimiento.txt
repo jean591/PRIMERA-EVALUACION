@@ -1,0 +1,24 @@
+-Menu en la parte superior con el logo de la pizzeria 
+   *logo en la parte izquierda
+   *barra de navegacion
+   (observ: en todas la paginas )
+
+-Pagina principal con carrusel
+   *tres promocion descatadas
+   *bajo de carrucel una seccion que describe la tres categorias
+
+-Parte superior de una pagina debe incluir
+ *un párrafo (propuesta de valor del negocio ,una foto,teléfono de la pizzería de manera destacada)
+-Ficha por categoria
+   *foto optimizada para web
+   *Lista de ingrediente(no numerada)
+   *valor nutricional de esta pizza
+   *precio(con texto destacado)
+-Pie de pagina
+   *nombre de la pizzeria
+   *dirrecion
+   *telefono
+   *foma de pago
+
+
+
