@@ -1,0 +1,65 @@
+img{float:left;
+   
+}
+p1{
+    color: blue;
+    font-size: 6mm;
+    font-style: italic;
+}
+
+
+#parafo{
+    text-align: justify;
+
+}
+
+#prim{
+    text-align: justify;
+}
+#vege{
+    text-align: justify;
+
+
+}
+
+#sabor{
+    text-align: justify;
+}
+h5{
+    color:crimson;
+    font-style: oblique;
+}
+
+#caru{ color: darkolivegreen;
+    font-style: oblique;
+    font-size: 9mm;
+
+}
+
+
+#valor{
+    margin: auto;
+    text-align: justify;
+
+}
+#valor1{
+    height: 400px;
+}
+
+h2{
+    color: crimson;
+}
+
+h3{
+    color:darkcyan;
+    text-align: center;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+
+#contacto{
+    margin: 30px;
+text-align: end;
+   
+}
